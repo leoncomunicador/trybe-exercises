@@ -1,0 +1,1 @@
+Arquivo criado para re-escalar os blocos e concluir com sucesso a formação FullStack na Trybe!
